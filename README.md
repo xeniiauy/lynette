@@ -3,6 +3,8 @@ Discord genshin co-op helper
 # 🤖 Lynette - Genshin Co-Op Helper Bot
 
 A Discord bot designed to streamline Genshin Impact Co-Op requests with stylish slash commands, modals, embeds, and claimable tasks.
+
+
 ![Captura de pantalla 2025-04-22 183939](https://github.com/user-attachments/assets/fbdafe28-76fb-4747-a557-ea61ca191505)
 
 
