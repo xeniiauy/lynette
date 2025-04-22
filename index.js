@@ -11,6 +11,9 @@ const {
   
   client.once('ready', () => {
     console.log(`✅ Lynette is online as ${client.user.tag}`);
+  console.log('🖋️ Bot developed by @xeniiauy — https://github.com/xeniiauy');
+});
+
   });
   
   // Register slash command
@@ -130,6 +133,7 @@ const {
           .setLabel('Claim Request')
           .setStyle(ButtonStyle.Success)
       );
+        .setFooter({ text: 'Bot by @xeniiauy — please credit if reused' });
   
       // Send to #coop-requests
 const coopChannel = interaction.guild.channels.cache.get('1358103320098771226');
