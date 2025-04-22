@@ -26,7 +26,7 @@ A Discord bot designed to streamline Genshin Impact Co-Op requests with stylish 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourname/lynette-coop-bot.git
+git clone https://github.com/xeniiauylynette.git
 cd lynette-coop-bot
 ```
 
