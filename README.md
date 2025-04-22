@@ -4,6 +4,7 @@ Discord genshin co-op helper
 
 A Discord bot designed to streamline Genshin Impact Co-Op requests with stylish slash commands, modals, embeds, and claimable tasks.
 
+
 ## 💡 Features
 
 - Slash command `/coop` to start a Co-Op request
@@ -63,11 +64,11 @@ Helpers must have the role with ID:
 
 Only members with this role can **claim** Co-Op requests.
 
-> ✏️ You can change this role ID in the code (`claim` button handler section).
+> You can change this role ID in the code (`claim` button handler section).
 
 ---
 
-## 📺 Channel Configuration
+##  Channel Configuration
 
 The bot posts all requests to the channel with ID:
 
@@ -87,3 +88,10 @@ Make sure this channel exists on your server, or change the ID to your preferred
   - Timeout handling for unclaimed requests
   - Persistent storage (e.g., MongoDB or SQLite)
   - Logging
+ 
+  ## Credits
+
+Developed with 💖 by [@xeniiauy)  
+Contact: `xennq` on Discord
+
+> If you use or modify this bot, please give proper credit.
